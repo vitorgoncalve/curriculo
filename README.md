@@ -1,3 +1,3 @@
-https://vitorgoncalve.github.io/template/
+https://vitorgoncalve.github.io/curriculo/
 # template
 meu currículo
