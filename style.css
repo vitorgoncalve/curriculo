@@ -256,7 +256,7 @@ a:hover {
 }
 
 .list-ico span {
-  color: #0078ff;
+  color: #0077ff5d;
   margin-right: 10px;
 }
 
@@ -269,7 +269,7 @@ a:hover {
   line-height: 1.55;
   margin: 0 auto;
   text-align: center;
-  box-shadow: 0 0 0 10px #0078ff;
+  box-shadow: 0 0 0 10px #090909cf;
   display: block;
 }
 
@@ -428,14 +428,14 @@ a:hover {
 }
 
 .button:hover {
-  background-color: #0062d3;
+  background-color: #1e1e1e;
   color: #fff;
   transition: all 500ms ease;
 }
 
 .button-a {
   text-decoration: none;
-  background-color: #0078ff;
+  background-color: #1e1e1e;
   color: #fff;
   border-color: #cde1f8;
 }
@@ -1480,4 +1480,18 @@ footer .credits {
 
 footer .credits a {
   color: #fff;
+}
+
+  .map-responsive{
+    overflow:hidden;
+    padding-bottom:50%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
 }
