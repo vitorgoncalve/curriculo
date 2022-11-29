@@ -379,7 +379,7 @@ a:hover {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #0078ff;
+  border-top: 6px solid #333333;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -428,14 +428,14 @@ a:hover {
 }
 
 .button:hover {
-  background-color: #0062d3;
+  background-color: #565b60;
   color: #fff;
   transition: all 500ms ease;
 }
 
 .button-a {
   text-decoration: none;
-  background-color: #0078ff;
+  background-color: #2e3133;
   color: #fff;
   border-color: #cde1f8;
 }
@@ -596,7 +596,7 @@ a:hover {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #0078ff;
+  color: #000000;
 }
 
 .navbar .dropdown:hover>ul {
@@ -701,7 +701,7 @@ a:hover {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #0078ff;
+  color: #2e333a;
 }
 
 .navbar-mobile .getstarted,
@@ -816,7 +816,7 @@ a:hover {
 
 .hero-single .breadcrumb {
   background-color: transparent;
-  color: #0078ff;
+  color: #60666c;
 }
 
 .hero-single .breadcrumb .breadcrumb-item:before {
@@ -884,7 +884,7 @@ a:hover {
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color: #0078ff;
+  background-color: #0c0c0d;
   box-shadow: 0 0 0 10px #cde1f8;
 }
 
@@ -979,17 +979,17 @@ a:hover {
 }
 
 .work-content .w-more .w-ctegory {
-  color: #0078ff;
+  color: #141415;
 }
 
 .work-content .w-like {
   font-size: 2.5rem;
-  color: #0078ff;
+  color: #232323;
   float: right;
 }
 
 .work-content .w-like a {
-  color: #0078ff;
+  color: #0a0a0a;
 }
 
 .work-content .w-like .num-like {
@@ -1021,11 +1021,11 @@ a:hover {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #0078ff;
+  border: 1px solid #0d0d0d;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #0078ff;
+  background-color: #000000;
 }
 
 .portfolio-details .portfolio-info {
@@ -1092,7 +1092,7 @@ a:hover {
 
 .testimonial-box .comit {
   font-size: 2rem;
-  color: #0078ff;
+  color: #141415;
   background-color: #fff;
   width: 52px;
   height: 52px;
@@ -1201,7 +1201,7 @@ a:hover {
 
 .php-email-form input:focus,
 .php-email-form textarea:focus {
-  border-color: #0078ff;
+  border-color: #111112;
 }
 
 .php-email-form input {
@@ -1214,7 +1214,7 @@ a:hover {
 }
 
 .php-email-form button[type=submit] {
-  background: #0078ff;
+  background: #131313;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1222,7 +1222,7 @@ a:hover {
 }
 
 .php-email-form button[type=submit]:hover {
-  background: #3393ff;
+  background: #040404;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1273,7 +1273,7 @@ a:hover {
   color: #fff;
   padding: 0 15px 5px;
   overflow: hidden;
-  background-color: #0078ff;
+  background-color: #000000;
   border-radius: 4px;
 }
 
@@ -1342,7 +1342,7 @@ a:hover {
 }
 
 .blog-wrapper .post-meta ul {
-  border-left: 4px solid #0078ff;
+  border-left: 4px solid #19191a;
   margin-top: 1rem;
 }
 
@@ -1352,7 +1352,7 @@ a:hover {
 }
 
 .blog-wrapper .post-meta ul a {
-  color: #0078ff;
+  color: #000000;
 }
 
 .blog-wrapper .post-meta ul span {
@@ -1360,7 +1360,7 @@ a:hover {
 }
 
 .blog-wrapper .blockquote {
-  border-left: 4px solid #0078ff;
+  border-left: 4px solid #000000;
   padding: 18px;
   font-style: italic;
 }
@@ -1397,7 +1397,7 @@ a:hover {
 }
 
 .box-comments .list-comments a {
-  color: #0078ff;
+  color: #000000;
 }
 
 .box-comments .list-comments span {
@@ -1413,7 +1413,7 @@ a:hover {
 .widget-sidebar .sidebar-title {
   font-size: 1.6rem;
   font-weight: 600;
-  border-left: 5px solid #0078ff;
+  border-left: 5px solid #121213;
   padding-left: 15px;
   text-transform: uppercase;
   margin-bottom: 1.5rem;
@@ -1430,7 +1430,7 @@ a:hover {
   width: 10px;
   height: 1px;
   left: 0;
-  background-color: #0078ff;
+  background-color: #0a0a0a;
   top: 20px;
 }
 
@@ -1441,8 +1441,8 @@ a:hover {
 }
 
 .sidebar-search .btn-search {
-  background-color: #0078ff;
-  border-color: #0078ff;
+  background-color: #000000;
+  border-color: #040404;
   border-radius: 0;
   padding-left: 20px;
   padding-right: 20px;
@@ -1450,7 +1450,7 @@ a:hover {
 
 .widget-tags ul li {
   display: inline-block;
-  background-color: #0078ff;
+  background-color: #060607;
   padding: 0.2rem 0.6rem;
   margin-bottom: 0.5rem;
   border-radius: 15px;
@@ -1467,7 +1467,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: #0062d3;
+  background: #0a0b0cec;
 }
 
 footer .copyright {
