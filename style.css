@@ -1199,6 +1199,7 @@ a:hover {
   font-size: 14px;
 }
 
+
 .php-email-form input:focus,
 .php-email-form textarea:focus {
   border-color: #111112;
@@ -1481,3 +1482,6 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+
+
+
